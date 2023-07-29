@@ -1,6 +1,6 @@
-Project Title : Hand Gesture Recognition System
+**Project Title : Hand Gesture Recognition System**
 
-Project Description :
+**Project Description :**
 
 
 The system provides two main functions:
@@ -25,33 +25,33 @@ Developer Requirements
 
 Run main.py to execute the project
 
-GUI:-
+**GUI:-**
 
-![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/d5b8ca92-916f-450b-9f17-ad7fd22501f9)
+![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/688564b8-2d5f-465f-86dd-6a0d2b61b140)
 
-Taking Images : 
+**Taking Images : **
 
 Enter the name of the gesture in the input box and click on take image to capture the gesture .
 A pop up screen will appear which will take gesture 100 samples .
 
-![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/07d394de-9c51-4f8f-9b61-e8354a005255)
+![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/e04863da-a4ce-4385-9c2d-95d96e1679d6)
 
 
-* Step 1 : Create Dataset
+* **Step 1 : Create Dataset**
 
-![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/533cca20-ce9a-42e3-b3de-0e27ec3c56c5)
+![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/1c948520-76fd-434e-a802-5af682f9af5a)
 
-* Step 2 : Train Dataset
+* **Step 2 : Train Dataset**
   
-![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/e13d3537-6114-4f62-9c54-2ed2ce31f6b4)
+![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/9efb5046-a4cf-49c7-a002-d0b3c7593723)
 
 
-* Step 3 : Test Gestures
+* **Step 3 : Test Gestures**
 
-![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/7596c88a-946e-4212-8ccc-a8bf3ab58196)
+![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/2576d320-e4ea-4ceb-ab1d-58fdc260ae18)
 
 
-Delete Gesture : Enter the name of the gesture in the name input and click on the delete button to delete the gesture.
+**Delete Gesture : ** Enter the name of the gesture in the name input and click on the delete button to delete the gesture.
 
 ![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/99619ef1-6177-4ae1-bf4a-4c1135904ae0)
 
