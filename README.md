@@ -51,9 +51,9 @@ A pop up screen will appear which will take gesture 100 samples .
 ![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/2576d320-e4ea-4ceb-ab1d-58fdc260ae18)
 
 
-**Delete Gesture : ** Enter the name of the gesture in the name input and click on the delete button to delete the gesture.
+**Delete Gesture :** Enter the name of the gesture in the name input and click on the delete button to delete the gesture.
 
-![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/99619ef1-6177-4ae1-bf4a-4c1135904ae0)
+![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/a54b8dde-052c-40eb-848a-20dcbbc08447)
 
 
 
