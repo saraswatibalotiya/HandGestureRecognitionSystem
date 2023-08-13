@@ -29,7 +29,7 @@ Run main.py to execute the project
 
 ![image](https://github.com/saraswatibalotiya/HandGestureRecognitionSystem/assets/54326277/688564b8-2d5f-465f-86dd-6a0d2b61b140)
 
-**Taking Images : **
+**Taking Images :**
 
 Enter the name of the gesture in the input box and click on take image to capture the gesture .
 A pop up screen will appear which will take gesture 100 samples .
