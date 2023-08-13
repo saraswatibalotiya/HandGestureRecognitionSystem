@@ -20,7 +20,7 @@ The Scope of project include the following :
 
 Developer Requirements
 * Python : Version 3.8.10
-* Libraries: Numpy, Mediapipe, OpenCv-Python , tkinter ,pandas.
+* Libraries: Mediapipe, OpenCv-Python , tkinter .
 * Classifier Used : Random Forest Clasifier
 
 Run main.py to execute the project
